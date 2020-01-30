@@ -12,7 +12,7 @@ public class TvDisplay implements IObserver {
 	
 	@Override
 	public void update() {
-		station.getTemprature();
+		station.getTemperature();
 	}
 
 }

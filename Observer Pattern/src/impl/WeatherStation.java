@@ -9,7 +9,7 @@ public class WeatherStation implements IObservable {
 
 	private Collection<IObserver> observers;
 	
-	private int temprature;
+	private int temperature;
 	
 	@Override
 	public void add(IObserver observer) {
@@ -28,8 +28,8 @@ public class WeatherStation implements IObservable {
 		}
 	}
 
-	public int getTemprature() {
-		return temprature;
+	public int getTemperature() {
+		return temperature;
 	}
 
 }
