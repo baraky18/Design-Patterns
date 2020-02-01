@@ -3,7 +3,7 @@
   realizations="true" associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
   <class id="1" language="java" name="decorator.AddonDecorator" project="Decorator Pattern" 
     file="/Decorator Pattern/src/decorator/AddonDecorator.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="619" y="87"/>    
+    <position height="-1" width="-1" x="616" y="85"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -12,7 +12,7 @@
   </class>  
   <class id="2" language="java" name="decorator.Caramel" project="Decorator Pattern" 
     file="/Decorator Pattern/src/decorator/Caramel.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="461" y="423"/>    
+    <position height="-1" width="-1" x="440" y="428"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -30,7 +30,7 @@
   </class>  
   <class id="4" language="java" name="decorator.Cream" project="Decorator Pattern" 
     file="/Decorator Pattern/src/decorator/Cream.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="117" width="182" x="538" y="369"/>    
+    <position height="-1" width="-1" x="643" y="418"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
@@ -48,7 +48,7 @@
   </class>  
   <class id="6" language="java" name="mainentity.Espresso" project="Decorator Pattern" 
     file="/Decorator Pattern/src/mainentity/Espresso.java" binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="158" y="293"/>    
+    <position height="-1" width="-1" x="104" y="181"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
